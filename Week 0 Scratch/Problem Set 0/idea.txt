@@ -1,0 +1,12 @@
+CS50x
+Problem Set 0
+Scratch Basketball Game.
+
+The idea is a "simple" basketball game:
+1 - The background will be an image of an NBA court with the crowd.
+2 - There will be 2 sprites: a basketball and a hoop (both in pixel art).
+3 - The music will be the Chicago Bulls Introduction - 1997 NBA Finals Game 6.
+
+The plan is for the player to be able to move the hoop left and right while basketballs with random point values appear and fall. The more balls that go through the hoop, the higher the score and the faster the balls fall. If the player lets 3 balls fall outside the hoop, the game is over.
+
+
